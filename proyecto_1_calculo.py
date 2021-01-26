@@ -38,7 +38,7 @@ def Lewis_Narvaez(tupla):
     """
     Recibe como parámetro una tupla y retorna el último elemento de la tupla.
     """
-    return
+    return tupla[-1]
 
 
 def Luisana_Hernandez(a, b, c):

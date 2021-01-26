@@ -24,7 +24,7 @@ def Hector_Salazar(tupla):
     """
     Recibe como parámetro una tupla y retorna el primer elemento de la tupla.
     """
-    return
+    return tupla[0]
 
 
 def Jose_Gomez(cadena):

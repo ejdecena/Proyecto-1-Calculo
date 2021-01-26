@@ -55,4 +55,4 @@ def Lusandre_Marcano(conjunto):
     """
     Recibe como parámetros un conjunto y retorna el máximo del conjunto.
     """
-    return
+    return max(conjunto)

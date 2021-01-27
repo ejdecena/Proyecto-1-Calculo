@@ -48,7 +48,7 @@ def Luisana_Hernandez(a, b, c):
     """
     Recibe como parámetros a, b, c y retorna el máximo de a, b, c.
     """
-    return
+    return max (a,b,c)
 
 
 def Lusandre_Marcano(conjunto):

@@ -17,7 +17,7 @@ def Elder_Gomes(lista):
     """
     Recibe como parámetro una lista y retorna el mínimo valor de la lista.
     """
-    return
+    return lista[0]
 
 
 def Hector_Salazar(tupla):
@@ -80,7 +80,6 @@ if __name__ == "__main__":
         res = "10"
     else:
         res = "5"
-    res = 0
     print("Elder Gomes:", res)
 
     if Hector_Salazar(tupla) == tupla[0]:
